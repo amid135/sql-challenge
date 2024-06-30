@@ -75,6 +75,9 @@ Notes
 - Ensure all SQL scripts are well-commented and organized for clarity.
 - Use appropriate SQL syntax for your database system.
 - Document any assumptions or considerations made during the project.
+  
+Additional Sections:
+Used Chat GBT
 
 Author
 Andrew Middleton
