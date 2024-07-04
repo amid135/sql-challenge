@@ -1,5 +1,0 @@
-DROP TABLE IF EXISTS titles CASCADE;
-CREATE TABLE titles (
-    title_id VARCHAR(1000) PRIMARY KEY,
-    title VARCHAR(50)
-);
